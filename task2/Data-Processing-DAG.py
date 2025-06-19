@@ -54,7 +54,7 @@ with DAG(
     # 2 этап: запуск задания PySpark
     poke_spark_processing = DataprocCreatePysparkJobOperator(
         task_id='dp-cluster-pyspark-task',
-        main_python_file_uri=f's3a://{YC_BUCKET}/scripts/create-table.py',
+        main_python_file_uri=f's3a://bucket-task-data/scripts/create-table.py',
     )
 
     # 3 этап: удаление кластера Yandex Data Processing
