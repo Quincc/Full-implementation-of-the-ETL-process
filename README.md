@@ -79,6 +79,12 @@
 
 ---
 
+## Реализованный дашборд
+![Дашборд->](Full-implementation-of-the-ETL-process
+/screenshots/dashboard.png)
+
+---
+
 ## 🧰 Используемые технологии
 
 - **Yandex Cloud**: YDB, DataTransfer, Data Processing, Object Storage, Apache Kafka
