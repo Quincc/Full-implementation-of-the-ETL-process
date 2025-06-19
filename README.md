@@ -25,8 +25,10 @@
 - Yandex YDB
 - YQL
 - Yandex DataTransfer
-
-[Таблица->](screenshots/table.png)
+<details>
+<summary><i> Screen </i></summary>
+  ![Таблица](screenshots/table.png)
+</details>
 ---
 
 ### 🔹 Задание 2: PySpark + Apache Airflow + Data Processing
