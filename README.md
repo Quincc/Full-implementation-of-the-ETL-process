@@ -26,6 +26,7 @@
 - YQL
 - Yandex DataTransfer
 
+[Таблица->](screenshots/table.png)
 ---
 
 ### 🔹 Задание 2: PySpark + Apache Airflow + Data Processing
