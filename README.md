@@ -80,8 +80,7 @@
 ---
 
 ## Реализованный дашборд
-![Дашборд->](Full-implementation-of-the-ETL-process
-/screenshots/dashboard.png)
+![Дашборд->](screenshots/dashboard.png)
 
 ---
 
