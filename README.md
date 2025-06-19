@@ -27,7 +27,7 @@
 - Yandex DataTransfer
       <details>
     	<summary><i>Скриншоты</i></summary>
-		  ![Таблица](screenshots/table.png)
+		![Таблица](screenshots/table.png)
   		![Трансфер](screenshots/transfer_success.png)
 	</details> 
 ---
@@ -45,11 +45,16 @@
 - Apache Airflow
 - Object Storage
 
-  <details>
+<details>
   <summary><i>Скриншоты</i></summary>
-![Кластер](screenshots/airflow_cluster.png)
-![DAG](screenshots/dags_success.png)
-</details> 
+
+  <br>
+
+  ![Кластер](screenshots/airflow_cluster.png)  
+  ![DAG](screenshots/dags_success.png)
+
+</details>
+
  
 ---
 
