@@ -25,10 +25,11 @@
 - Yandex YDB
 - YQL
 - Yandex DataTransfer
-<details>
-<summary><i> Screen </i></summary>
-  ![Таблица](screenshots/table.png)
-</details>
+      <details>
+    	<summary><i>Скриншоты</i></summary>
+		  ![Таблица](screenshots/table.png)
+  		![Трансфер](screenshots/transfer_success.png)
+	</details> 
 ---
 
 ### 🔹 Задание 2: PySpark + Apache Airflow + Data Processing
@@ -44,6 +45,12 @@
 - Apache Airflow
 - Object Storage
 
+  <details>
+  <summary><i>Скриншоты</i></summary>
+![Кластер](screenshots/airflow_cluster.png)
+![DAG](screenshots/dags_success.png)
+</details> 
+ 
 ---
 
 ### 🔹 Задание 3: Apache Kafka + PySpark
